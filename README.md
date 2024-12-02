@@ -71,7 +71,8 @@ Enlace de la version de XAMPP necesaria: https://www.mediafire.com/file/g9tuzz9q
 - Debería mostrar un mensaje de conexión exitosa.
 
 ---
-
+### 10. Prueba del archivo "conexion.py"
+1. Ejecutar conexión.py remplazando la API key que se nos dio en el paso 8.
 ## Notas Finales
 
 El entorno ahora está configurado y listo para su uso con Testlink y Selenium. Asegúrate de seguir las buenas prácticas para garantizar un correcto funcionamiento.
