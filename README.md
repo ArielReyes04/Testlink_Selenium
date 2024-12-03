@@ -10,7 +10,7 @@ Este proyecto incluye los pasos necesarios para instalar y configurar **Testlink
 ## Requisitos
 
 1. **XAMPP**: Versión específica incluida en los archivos adjuntos.
-2. **Python**: 
+2. **Python**: Ultima Version: https://www.python.org/downloads/
 3. **Archivos del proyecto**: Carpetas **proyecto spa** y **testlink**.
 4. **Conexión a internet**: Para instalar dependencias de Python.
 Enlace de la version de XAMPP necesaria: https://www.mediafire.com/file/g9tuzz9qp6sqv0s/Ejecutables.zip/file
